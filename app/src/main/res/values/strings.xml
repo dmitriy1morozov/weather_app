@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather_test_task</string>
+    <string name="main_forecast">Forecast -></string>
+    <string name="main_input_hint">Type city here</string>
+
+    <!--<string name="google_maps_key">AIzaSyCr7tCTqjWU9SARpa-NSgbKe38yk287uNk</string>-->
+</resources>
